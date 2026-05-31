@@ -1,4 +1,4 @@
-<img src="githubanner.JPG"/>
+<img src="/assets/githubanner.JPG"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jggaretto" target="_blank">
