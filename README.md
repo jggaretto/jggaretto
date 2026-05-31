@@ -1,40 +1,39 @@
 <div align="center">
 
-<!-- HEADER WAVE SVG -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d0d0d"/>
-      <stop offset="50%" style="stop-color:#1a1a2e"/>
-      <stop offset="100%" style="stop-color:#16213e"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,60 C150,100 350,0 600,60 C850,120 1050,20 1200,60 L1200,120 L0,120 Z" fill="url(#grad)"/>
-</svg>
-
-# jggaretto &nbsp;`</>`
-
-*Sistemas · Backend · Desktop · Linux*
-
-[![Visitors](https://komarev.com/ghpvc/?username=jggaretto&color=grey&style=flat-square&label=profile+views)](https://github.com/jggaretto)
+<img src="https://raw.githubusercontent.com/jggaretto/jggaretto/main/assets/header.svg" width="100%" alt="header"/>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![Visitors](https://komarev.com/ghpvc/?username=jggaretto&color=444444&style=flat-square&label=profile+views)](https://github.com/jggaretto)
+
+</div>
+
+<br/>
+
+```
+  Estudiante de Programador Universitario de Sistemas @ UNVIME
+  Java · Node.js · MySQL · Linux
+```
+
 ---
 
-## 👤 About me
+### 👤 About me
 
-Soy **Juan Garetto**, estudiante de **Programador Universitario de Sistemas** en la UNVIME. Me interesa construir cosas que funcionen de verdad — desde aplicaciones de escritorio en Java hasta APIs con Node.js. Usuario convencido de Linux, fan de entender cómo funcionan las cosas por dentro.
+Soy **Juan Cruz Garetto**, estudiante de sistemas en la UNVIME (Villa Mercedes, San Luis). Me gusta construir cosas que funcionen de verdad — aplicaciones de escritorio en Java, APIs web con Node.js, y entender cómo funcionan las cosas por dentro. Usuario convencido de Linux.
 
-- 🎓 Estudiando en **UNVIME** — Villa Mercedes, San Luis
-- ☕ Proyectos de escritorio con **Java + Swing + MySQL** (MVC)
+- 🎓 **UNVIME** — Programador Universitario de Sistemas
+- ☕ Proyectos de escritorio con **Java + Swing + MySQL** (arquitectura MVC)
 - 🌐 Backend web con **Node.js / Express / SQLite**
-- 🐧 Corriendo **Linux Mint XFCE** en Lenovo G480
+- 🐧 **Linux Mint XFCE** en Lenovo G480
 - 🎮 Gamer en el tiempo libre
 
 ---
 
-## 🛠️ Technologies
+### 🛠️ Technologies
 
 **Lenguajes**
 
@@ -63,11 +62,11 @@ Soy **Juan Garetto**, estudiante de **Programador Universitario de Sistemas** en
 
 ---
 
-## 📊 Statistics
+### 📊 Statistics
 
 <div align="center">
 
-![stats](./assets/github-stats.svg)
+<img src="https://raw.githubusercontent.com/jggaretto/jggaretto/main/assets/github-stats.svg" width="100%" alt="GitHub Stats"/>
 
 </div>
 
@@ -75,22 +74,10 @@ Soy **Juan Garetto**, estudiante de **Programador Universitario de Sistemas** en
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/jggaretto/jggaretto/main/assets/footer.svg" width="100%" alt="footer"/>
+
 *"Siempre aprendiendo, siempre rompiendo algo para entender cómo funciona."*
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jggaretto)
 
-</div>
-
-<!-- FOOTER WAVE SVG -->
-<div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="100%">
-  <defs>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#16213e"/>
-      <stop offset="50%" style="stop-color:#1a1a2e"/>
-      <stop offset="100%" style="stop-color:#0d0d0d"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,30 C200,60 400,0 600,30 C800,60 1000,0 1200,30 L1200,60 L0,60 Z" fill="url(#grad2)"/>
-</svg>
 </div>
