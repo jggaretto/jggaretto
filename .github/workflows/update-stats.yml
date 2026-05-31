@@ -2,10 +2,10 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Todos los días a medianoche
+    - cron: "0 0 * * *"
   push:
     branches: [main]
-  workflow_dispatch:       # Permite ejecutarlo manualmente
+  workflow_dispatch:
 
 jobs:
   build:
@@ -27,24 +27,5 @@ jobs:
           filename: assets/github-stats.svg
           config_timezone: America/Argentina/Buenos_Aires
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
           plugin_languages_sections: most-used
-          plugin_languages_indepth: no
-
-      - name: Generate Streak SVG
-        uses: DenverCoder1/github-readme-streak-stats@v2
-        with:
-          user: jggaretto
-          theme: dark
-          hide_border: true
-          background: 0d1117
-          ring: c9a84c
-          fire: e0e0e0
-          curr_streak_label: c9a84c
-          output_path: assets/streak.svg
-        env:
-          TOKEN: ${{ secrets.METRICS_TOKEN }}
