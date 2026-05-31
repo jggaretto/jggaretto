@@ -17,7 +17,7 @@
 <br/>
 
 <p>
-  Hola! <em><b>Soy Juan Cruz Garetto</b></em>, estudiante de Programador Universitario de Sistemas en la UNVIME (Villa Mercedes, San Luis). Me apasiona construir cosas que funcionen de verdad — desde aplicaciones de escritorio en Java hasta APIs con Node.js. Usuario convencido de Linux, siempre aprendiendo y rompiendo algo para entender cómo funciona.
+  Hola! <em><b>Soy Juan Cruz Garetto</b></em>, estudiante de Programador Universitario de Sistemas en la UNVIME (Villa Mercedes, San Luis). Me apasiona construir cosas que funcionen de verdad — desde aplicaciones de escritorio en Java hasta APIs con Node.js. Usuario de Linux, siempre aprendiendo y rompiendo algo para entender cómo funciona.
 </p>
 
 <br/>
@@ -26,7 +26,7 @@
    <img src="/assets/img3.png" width="15"/>   <em><b> Estudiando en la UNVIME — Programador Universitario de Sistemas </b></em> <br/>
    <img src="/assets/img4.png" width="15"/>   <em><b> Proyectos de escritorio con Java + Swing + MySQL (MVC) </b></em><br/>
    <img src="/assets/img2.png" width="15"/>   <em><b> Backend web con Node.js / Express / SQLite </b></em><br/>
-   <img src="/assets/img1.png" width="15"/>   <em><b> Usuario de Linux Mint XFCE </b></em><br/>
+   <img src="/assets/img1.png" width="15"/>   <em><b> Usuario de Linux </b></em><br/>
 </p>
 
 <br/>
