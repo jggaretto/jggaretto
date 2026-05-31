@@ -32,21 +32,45 @@
 <br/>
 <br/>
 
-<h2 align="center"> <img src="/assets/title2.png" width="25"/> <em>Technologies</em></h2>
 
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em>Technologies</em></h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.sqlite.org" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://netbeans.apache.org" target="_blank">
+    <img src="https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  </a>
+  <a href="https://www.linuxmint.com" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
 </p>
 
 <br/>
