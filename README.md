@@ -65,16 +65,9 @@ Soy **Juan Garetto**, estudiante de **Programador Universitario de Sistemas** en
 
 ## 📊 Statistics
 
-<!-- Las siguientes imágenes son generadas por el GitHub Action incluido en este repo -->
-<!-- Se actualizan automáticamente cada 24hs o con cada push -->
-
 <div align="center">
 
-| GitHub Stats | Top Languages |
-|:---:|:---:|
-| ![stats](./assets/github-stats.svg) | ![langs](./assets/top-langs.svg) |
-
-![streak](./assets/streak.svg)
+![stats](./assets/github-stats.svg)
 
 </div>
 
