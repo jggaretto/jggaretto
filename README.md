@@ -17,7 +17,7 @@
 <br/>
 
 <p>
-  Hola! <em><b>Soy Juan Cruz Garetto</b></em>, estudiante de Programador Universitario de Sistemas en la UNVIME (Villa Mercedes, San Luis). Me apasiona construir cosas que funcionen de verdad — desde aplicaciones de escritorio en Java hasta APIs con Node.js. Usuario de Linux, siempre aprendiendo y rompiendo algo para entender cómo funciona.
+  Hola! <em><b>Soy Juan Cruz Garetto</b></em>, estudiante de Programador Universitario de Sistemas en la UNVIME (Villa Mercedes, San Luis).
 </p>
 
 <br/>
