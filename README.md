@@ -33,7 +33,7 @@
 <br/>
 
 
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em>Technologies</em></h2>
+<h2 align="center"> <img src="/assets/title2.png" width="25"/> <em>Technologies</em></h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
