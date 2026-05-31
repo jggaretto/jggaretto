@@ -1,83 +1,58 @@
-<div align="center">
+<img src="githubanner.JPG"/>
 
-<img src="https://raw.githubusercontent.com/jggaretto/jggaretto/main/assets/header.svg" width="100%" alt="header"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jggaretto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/jggaretto" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
+<br>
+
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me</em></h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hola! <em><b>Soy Juan Cruz Garetto</b></em>, estudiante de Programador Universitario de Sistemas en la UNVIME (Villa Mercedes, San Luis). Me apasiona construir cosas que funcionen de verdad — desde aplicaciones de escritorio en Java hasta APIs con Node.js. Usuario convencido de Linux, siempre aprendiendo y rompiendo algo para entender cómo funciona.
+</p>
 
 <br/>
 
-<div align="center">
+<p align="center">
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Estudiando en la UNVIME — Programador Universitario de Sistemas </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Proyectos de escritorio con Java + Swing + MySQL (MVC) </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Backend web con Node.js / Express / SQLite </b></em><br/>
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Usuario de Linux Mint XFCE </b></em><br/>
+</p>
 
-[![Visitors](https://komarev.com/ghpvc/?username=jggaretto&color=444444&style=flat-square&label=profile+views)](https://github.com/jggaretto)
+<br/>
+<br/>
 
-</div>
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em>Technologies</em></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 <br/>
 
-```
-  Estudiante de Programador Universitario de Sistemas @ UNVIME
-  Java · Node.js · MySQL · Linux
-```
-
----
-
-### 👤 About me
-
-Soy **Juan Cruz Garetto**, estudiante de sistemas en la UNVIME (Villa Mercedes, San Luis). Me gusta construir cosas que funcionen de verdad — aplicaciones de escritorio en Java, APIs web con Node.js, y entender cómo funcionan las cosas por dentro. Usuario convencido de Linux.
-
-- 🎓 **UNVIME** — Programador Universitario de Sistemas
-- ☕ Proyectos de escritorio con **Java + Swing + MySQL** (arquitectura MVC)
-- 🌐 Backend web con **Node.js / Express / SQLite**
-- 🐧 **Linux Mint XFCE** en Lenovo G480
-- 🎮 Gamer en el tiempo libre
-
----
-
-### 🛠️ Technologies
-
-**Lenguajes**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Bases de datos**
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Herramientas**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📊 Statistics
+<h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em>Statistics</em></h2>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/jggaretto/jggaretto/main/assets/github-stats.svg" width="100%" alt="GitHub Stats"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jggaretto/jggaretto/main/assets/footer.svg" width="100%" alt="footer"/>
-
-*"Siempre aprendiendo, siempre rompiendo algo para entender cómo funciona."*
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jggaretto)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jggaretto&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
