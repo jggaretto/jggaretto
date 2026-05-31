@@ -11,7 +11,7 @@
 
 <br>
 
-<h2 align="center"> <img src="/assets/title1.png" width="25"/> <em>About me</em></h2>
+<h2 align="center"> <img src="./assets/title1.png" width="25"/> <em>About me</em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -23,17 +23,17 @@
 <br/>
 
 <p align="center">
-   <img src="/assets/img3.png" width="15"/>   <em><b> Estudiando en la UNVIME — Programador Universitario de Sistemas </b></em> <br/>
-   <img src="/assets/img4.png" width="15"/>   <em><b> Proyectos de escritorio con Java + Swing + MySQL (MVC) </b></em><br/>
-   <img src="/assets/img2.png" width="15"/>   <em><b> Backend web con Node.js / Express / SQLite </b></em><br/>
-   <img src="/assets/img1.png" width="15"/>   <em><b> Usuario de Linux </b></em><br/>
+   <img src="./assets/img3.png" width="15"/>   <em><b> Estudiando en la UNVIME — Programador Universitario de Sistemas </b></em> <br/>
+   <img src="./assets/img4.png" width="15"/>   <em><b> Proyectos de escritorio con Java + Swing + MySQL (MVC) </b></em><br/>
+   <img src="./assets/img2.png" width="15"/>   <em><b> Backend web con Node.js / Express / SQLite </b></em><br/>
+   <img src="./assets/img1.png" width="15"/>   <em><b> Usuario de Linux </b></em><br/>
 </p>
 
 <br/>
 <br/>
 
 
-<h2 align="center"> <img src="/assets/title2.png" width="25"/> <em>Technologies</em></h2>
+<h2 align="center"> <img src="./assets/title2.png" width="25"/> <em>Technologies</em></h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -75,7 +75,7 @@
 
 <br/>
 
-<h2 align="center"> <img src="/assets/title3.png" width="25"/> <em>Statistics</em></h2>
+<h2 align="center"> <img src="./assets/title3.png" width="25"/> <em>Statistics</em></h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jggaretto&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
